@@ -1,0 +1,377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The antiquity of the Quakers proved out of the Scriptures of truth published in love to the papists, Protestants, Presbyterians, Independents, &amp; Anabaptists : with a salutation of pure love to all the tender hearted Welsh-men but more especially to Flint-shire, Denbigh-shire, Carenarvon-shire, and Anglesea / by Thomas Wynne.</title>
+            <author>Wynne, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67230</idno>
+            <idno type="STC">Wing W3782</idno>
+            <idno type="STC">ESTC R26413</idno>
+            <idno type="EEBO-CITATION">09456349</idno>
+            <idno type="OCLC">ocm 09456349</idno>
+            <idno type="VID">43160</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43160)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1321:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The antiquity of the Quakers proved out of the Scriptures of truth published in love to the papists, Protestants, Presbyterians, Independents, &amp; Anabaptists : with a salutation of pure love to all the tender hearted Welsh-men but more especially to Flint-shire, Denbigh-shire, Carenarvon-shire, and Anglesea / by Thomas Wynne.</title>
+                  <author>Wynne, Thomas.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes some text in Welsh.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43160:1"/>
+            <pb facs="tcp:43160:1" rendition="simple:additions"/>
+            <p>THE ANTIQUITY OF THE QUAKERS Proved out of the Scriptures of Truth.</p>
+            <p>Publiſhed in Love to the <hi>Papiſts, Prote<g ref="char:EOLhyphen"/>ſtants, Presbyterians, Independents &amp; Anabaptiſts.</hi>
+            </p>
+            <p>With a SALUTATION of pure Love to all the Tender-hearted WELSH-MEN.</p>
+            <p>But more eſpecially to <hi>Flint</hi>-ſhire, <hi>Denbigh</hi>-ſhire, <hi>Carenar<g ref="char:EOLhyphen"/>von</hi>-ſhire and <hi>Angleſea.</hi>
+            </p>
+            <p>
+               <hi>By their Country-Man and Friend,</hi> Thomas Wynne.</p>
+            <q>
+               <bibl>
+                  <hi>Mat. 7.14.</hi>
+               </bibl>
+               <p>Narrow is the Way which leadeth to Life, and few there be that find it.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſalm 1.1.</hi>
+               </bibl>
+               <p>Bleſſed is the Man that walketh not in the Counſel of the <g ref="char:V">Ʋ</g>ngodly, nor ſtandeth in the Way of Sinners, nor ſitteth in the Seat of the Scornful.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Theſſ. 5.21.</hi>
+               </bibl>
+               <p>Prove all things, but hold faſt that which is good.</p>
+            </q>
+            <closer>
+               <dateline>Printed in the Year <date>1677.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:43160:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="address">
+            <pb n="3" facs="tcp:43160:2"/>
+            <head>THE ANTIQUITY OF THE QUAKERS Proved out of the Scriptures of Truth.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Pet. 3.3.</hi>
+                  </bibl>
+                  <p>Knowing this firſt, that there ſhall come in the laſt dayes <hi>Scoffers,</hi> walking after their own Luſts.</p>
+               </q>
+            </epigraph>
+            <p>COme <hi>Papiſts, Proteſtants, Presbyterians, Independents</hi> and <hi>Anabaptiſts,</hi> are not the very people amongſt you the A<g ref="char:EOLhyphen"/>poſtle <hi>Peter</hi> ſaid would come in the laſt dayes?</p>
+            <p>That many of you are guilty of being Scoffers, is too evident; and for you to deny it, would be notorious, ſince if a Catalogue of your Scoffs, Jeers, Reproaches, Flouts and Deriſions could poſſibly be collected, it would, without doubt, be one of the greateſt Volumns now extant in the World.</p>
+            <p>
+               <hi>Firſt,</hi> To prove you to be ſuch as generally practiſe Scoffing at <hi>Quaking</hi> and <hi>Trembling,</hi> I may call for witneſs the greateſt part of that call'd Chriſtendom; and it hath been a thing much obſerved by me in all Companies for theſe 20 years laſt paſt, even amongſt the
+<pb n="4" facs="tcp:43160:3"/>ſolideſt of you all, that it hath been as the Burden of all your Drolleries, to let fall ſome Scoff, Taunt or Jeer at <hi>Quaking</hi> and <hi>Trembling.</hi>
+            </p>
+            <p>And it hath been very ordinary with many, eſpecially the Prieſts, to ask me, <hi>Of how long ſtanding Quakeriſm</hi> (as they ſcoffingly called it) <hi>had beer,</hi> as if ſuggeſted by them, that it is ſome New T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, not heard of before; <hi>George Fox</hi> preached, that which convinceth men of Sin in their own Boſoms, to be the Light of Chriſt.</p>
+            <p>And to Anſwer their Objections much hath been ſaid to the ſame purpoſe, as ſhall appear in theſe following Lines, notwith<g ref="char:EOLhyphen"/>ſtanding they perſiſt in ſcoffing at ſuch a Practice, as a Deluſion of the Devil.</p>
+            <p>Come Scoffers of all ſorts, read the following Scriptures, and ſee if there were not <hi>Quakers</hi> before you reproachfully gave us that Name; and if both Old and New Teſtament, Prophets, Chriſt and his Apoſtles approved of ſuch a Practice as Quaking and Trem<g ref="char:EOLhyphen"/>bling, and that they were <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch themſelves; then let the Light in your Conſciences judge, what you are that ſcoff at it.</p>
+            <p>
+               <hi>Gen.</hi> 27. Mark how good old <hi>Iſaac</hi> was ſurprized, that he had bleſſed <hi>Jacob</hi> inſtead of <hi>Eſau,</hi> inſomuch that the Text ſaith, <hi>And</hi> Iſaac <hi>Trembled very exceedingly.</hi>
+            </p>
+            <p>Come you Scoffers, you may ſee that Quaking and Trembling is of greater Antiquity then either your Name of <hi>Papiſt, Prote<g ref="char:EOLhyphen"/>ſtant, Presbyterian, Independent</hi> or <hi>Anabaptiſt;</hi> and which of you dare ſay but <hi>Iſaac</hi> was an Honeſt Man, although a <hi>Quaker?</hi>
+            </p>
+            <p>
+               <hi>Exod. 19.16. And it came to paſs on the third day in the morning, that there was Thunder and Lightnings, and a thick cloud on the Mount, and the Voice of the Trumpet exceeding loud, ſo that all the people that were in the Camp Trembled.</hi>
+            </p>
+            <p>Come all of you before-mentioned, who call your ſelves Chriſti<g ref="char:EOLhyphen"/>ans, that ſcoff at <hi>quaking</hi> and <hi>trembling,</hi> ſaying, <hi>It is a New Thing, and of Late Date;</hi> I pray, caſt up how many Hundred Years is ſince theſe <hi>Quakers</hi> were in being; and were not here a great num<g ref="char:EOLhyphen"/>ber of <hi>Quakers,</hi> above Six Hundred Thouſand? and were not theſe <hi>Quakers</hi> the Iſrael of God?</p>
+            <p>And truly, we may ſay, It was with us in <hi>England</hi> as it was then
+<pb n="5" facs="tcp:43160:3"/>with <hi>Iſrael</hi> of old, that when the Morning Light of Chriſt appear<g ref="char:EOLhyphen"/>ed (after a long and dark Night of Apoſtacy) we ſaw a thick Cloud over us, and over you all; and the Lord uttered his Voice like a Trumpet, and thundered and lightened exceedingly, ſo that great Terror and great Fear and Trembling ſell upon us; but it ſeems you have not ſeen nor heard any thing that could make ſuch ſturdy Oaks as you to tremble, but ſcoffed us that did and do Trem<g ref="char:EOLhyphen"/>ble before our Maker.</p>
+            <p n="1">1 <hi>Sam.</hi> 4.13. where you may read, that good old <hi>Eli</hi> watch<g ref="char:EOLhyphen"/>ed by the Way ſide an! <hi>trembled</hi> for the Ark of God; and when he had heard that the <hi>Philiſtines</hi> had taken the Ark, he fell down backward, and broak his Neck, and dyed. And hath it not been ordinary with your Prieſts of all ſorts, to call their Oppoſers the <hi>Philiſtines,</hi> and make Applications on this Text, what Danger the Ark of God was in, although we very well know what the Ark of your God was and is, <hi>viz.</hi> your Fat Benefices, Tythes and Aug<g ref="char:EOLhyphen"/>mentations; and this was the Reaſon ſome of the Prieſts did ſo Bemone the Death of Old <hi>Oliver,</hi> and in their <hi>Addreſſes</hi> to his Son <hi>Richard,</hi>
+               <note place="margin">Read the Priests Addreſſes to <hi>Richard Cromwell,</hi> after <hi>O<g ref="char:EOLhyphen"/>liver</hi>'s Death.</note> telling him, <hi>That their</hi> MOSES <hi>was Dead, but he was their</hi> JOSHUA, <hi>that muſt carry them to the Promſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Land.</hi> But what that Land and their Ark is, may be eaſily known; and ſo at every Overturning and Change, this hath been the man<g ref="char:EOLhyphen"/>ner of the Prieſts of all ſorts; but they ſcoff at <hi>quaking</hi> and <hi>trem<g ref="char:EOLhyphen"/>bling.</hi>
+            </p>
+            <p n="1">1 <hi>Sam. 14.15. And there was</hi> trembling <hi>in the Host, in the Field and among all the People, the Gariſon and the Spoilers, they alſo</hi> trembled, <hi>and the Earth</hi> quaked; ſo it was a very great Trembling: Read that Chapter, and ſee the Cauſe of their Trembling, and ſee if you can find any Encouragement for you to Scoff at Trem<g ref="char:EOLhyphen"/>bling.</p>
+            <p>Ezra 9.4. <hi>Then there were aſſembled unto me every one that</hi> trem<g ref="char:EOLhyphen"/>bled <hi>at the Words of the Lord God of</hi> Iſrael, <hi>becauſe of the Tranſ<g ref="char:EOLhyphen"/>greſſion of thoſe that had been carryed away; and I ſate down until the Evening Sacrifice.</hi>
+            </p>
+            <p>Come you Scoffers of all ſorts, was not here a Meeting of
+<pb n="6" facs="tcp:43160:4"/>
+               <hi>Quakers,</hi> that trembled at the Words of God? But you ſay, <hi>Quakers and their Meetings are a New Thing, and of late Date.</hi>
+            </p>
+            <p>Ezra 10.3. <hi>Now therefore let us make a Covenant with our God, to put away all the Wives, and ſuch as are born of them, according to the Counſel of my Lord, and of thoſe that tremble at the Command<g ref="char:EOLhyphen"/>ment of our God.</hi>
+            </p>
+            <p>Mark, you Scoffers, there were <hi>Quakers</hi> in <hi>Ezra's</hi> dayes, and the People that had done amiſs were reſolved to take Counſel of them that Trembled at the Commandment of God.</p>
+            <p>Job 4.14. <hi>Fear came upon me, and</hi> Trembling, <hi>which made all my Bones to ſhake.</hi>
+            </p>
+            <p>Obſerve, Was not this good Man a <hi>Quaker.</hi>
+            </p>
+            <p>Job 21.6. <hi>Even when I remember, I am afraid, and</hi> Trembling <hi>taketh hold of my Fleſh.</hi>
+            </p>
+            <p>Pſalm 2.11. <hi>Serve the Lord with Fear, and rejoyce with</hi> Trem<g ref="char:EOLhyphen"/>bling. But your Rejoycing is to Jeer, Taunt and Scoff at <hi>Trem<g ref="char:EOLhyphen"/>bling.</hi>
+            </p>
+            <p>Pſalm 55.5. <hi>Fearfulneſs and</hi> Trembling <hi>are come upon me, and Horror hath overwhelmed me.</hi>
+            </p>
+            <p>Pſalm 99.1. <hi>The Lord reigneth, let the people</hi> Tremble. Would not the People be <hi>Quakers</hi> then?</p>
+            <p>Pſalm 119.120. <hi>My fleſh</hi> trembleth <hi>for fear of thee, and I am a<g ref="char:EOLhyphen"/>fraid of thy Judgments.</hi>
+            </p>
+            <p>Mark this, you Scoffers, this Prophet and King was not aſha<g ref="char:EOLhyphen"/>med to own himſelf to be a <hi>Quaker.</hi>
+            </p>
+            <p>Iſa. 32.11. Tremble <hi>ye Women that are at eaſe, be troubled ye Careleſs Ones, ſtrip and make ye bare, and gird Sackcloth upon your Loyns.</hi>
+            </p>
+            <p>And truly, I judge that many of the Women of our time had as much need to take this Counſel as them, to whom he wrote; but rather then repent in Sackcloth, and turn <hi>Quakers,</hi> they had rather gird themſelves in every <hi>Frenchified</hi> new Faſhion, and ſcoff at the <hi>Quakers.</hi>
+            </p>
+            <p>Iſa. 64.2. <hi>As when the Melting-fire burneth, the Fire cauſeth the Waters to boyl; to make known thy Name to thine Adverſaries, that the Nations may</hi> tremble <hi>at thy Preſence.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:43160:4"/>Here you may ſee that the Prophet <hi>Iſaiah</hi> had a Deſire that the Nations ſhould be Quakers.</p>
+            <p>Iſa. 66.5. <hi>Hear the Word of the Lord, ye that</hi> tremble <hi>at his Word, your Brethren, that hated you, that caſt you out for my Names ſake, ſaid, Let the Lord be glorified; but he ſhall appear to your Joy, and they ſhall be aſhamed.</hi>
+            </p>
+            <p>You may ſee here how the <hi>Quakers</hi> were ſerved, as you ſerve them now; however, I have Faith to believe, that the Lord will appear to our Joy, and to the Shame of them that caſt us out.</p>
+            <p>Jer. 5.22. <hi>Fear ye not me, ſaith the Lord? will ye not</hi> tremble <hi>at my Preſence?</hi>
+            </p>
+            <p>Obſerve here, the Lord requires Trembling at his Preſence; but you Scoff at Trembling.</p>
+            <p>
+               <hi>Jer.</hi> 33. and the latter-end of the 9th verſe, <hi>And they ſhall fear and</hi> tremble, <hi>for all the Goodneſs and all the Proſperity that I pro<g ref="char:EOLhyphen"/>cure unto it.</hi>
+            </p>
+            <p>But inſtead of Fearing and Trembling, when you receive Goodneſs and Proſperity, you ſcoff at ſuch as Fear and Tremble.</p>
+            <p>Ezek. 12.18. <hi>Son of Man, eat thy Bread with</hi> Quaking, <hi>and drink thy Drink with</hi> Trembling.</p>
+            <p>Mark how God doth injoyn his holy Prophets to be <hi>Quakers,</hi> and yet you can ſcoff at <hi>quaking</hi> and <hi>trembling.</hi>
+            </p>
+            <p>Ezek. 26.16. <hi>Then all the Princes of the Sea ſhall come down from their Thrones, and lay away their Robes, and put off their Broidered Garments; they ſhall clothe themſelves with</hi> trembling; <hi>they ſhall ſit on the Ground, and ſhall</hi> tremble <hi>at every moment, and be aſtoniſhed at thee.</hi>
+            </p>
+            <p>And haſt not thou, O <hi>England,</hi> had many Threatnings, as well as <hi>Tirus</hi> had? but inſtead of <hi>trembling,</hi> thou ſcoffeſt at ſuch as do <hi>tremble.</hi>
+            </p>
+            <p>Dan. 5.6. <hi>Then the King's Countenance was changed, and his Thoughts troubled him, ſo that the Joynts of his Loyns were looſ<g ref="char:EOLhyphen"/>ed, and his Knees ſmote one againſt another.</hi> But had it been in our time, no doubt but it would have ſerved to droll on.</p>
+            <p>Dan. 6.26. <hi>I make a Decree, that in every Dominion of my King<g ref="char:EOLhyphen"/>dom, Men fear and</hi> tremble <hi>before the God of</hi> Daniel.</p>
+            <p>See how Zealous King <hi>Darius</hi> was at the time of his Convince<g ref="char:EOLhyphen"/>ment,
+<pb n="8" facs="tcp:43160:5"/>to have all in his Dominions to be <hi>Quakers;</hi> but you ſay, <hi>It's a New Thing,</hi> and ſcoff at it.</p>
+            <p>Dan. 10.7. <hi>And I</hi> Daniel <hi>ſaw the Viſion; for the Men that were with me ſaw not the Viſion, but a great</hi> Quaking <hi>fell upon them, ſo that they fled to hide themſelves.</hi>
+            </p>
+            <p>It ſeems; you read the Scripture but little, that ſcoff at <hi>quaking,</hi> and ſay, <hi>It's of Late Date;</hi> but you may ſee, if you be not ſtark blind, that the <hi>Quakere</hi> were before you.</p>
+            <p>Dan. 10.1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>And he ſaid is to me, O</hi> Daniel, <hi>a Man greatly beloved, underſtand the Words that I ſpeak unto thee, and ſtand up<g ref="char:EOLhyphen"/>right; for unto thee am I now ſent: and when he had ſpoken this Word unto me, I ſtood</hi> trembling.</p>
+            <p>See, was not <hi>Daniel</hi> a <hi>Quaker</hi> in your Eyes, that Scoff at <hi>trem<g ref="char:EOLhyphen"/>bling?</hi>
+            </p>
+            <p>Joel 2.1. <hi>Blow ye the Trumpet in</hi> Sion, <hi>ſound an Alarm in my holy Mountain, let all the Inhabitants of the Land</hi> tremble; <hi>for the Day of the Lord cometh, and it is nigh at hand.</hi>
+            </p>
+            <p>And hath not the Trumpet been blown in thee, O <hi>England</hi> and <hi>Wales,</hi> my Native Country, and the great Day of the Lord, that is near at hand, proclaimed, that the Inhabitants might with Fear and Trembling prepare for it; but inſtead of ſo doing, thou haſt fed thy ſelf without Fear, and ſcoffed at ſuch as fear and tremble before him.</p>
+            <p>
+               <hi>Hab.</hi> 3.16. he ſaid, <hi>That his Belly</hi> trembled, <hi>and his Lips</hi> qui<g ref="char:EOLhyphen"/>vered, <hi>and Rottenneſs entered into his Bones, and he</hi> trembled <hi>in himſelf, that he might reſt in the Day of Trouble.</hi>
+            </p>
+            <p>And would not you have ſcoffed him, and called him <hi>Quaker,</hi> if he had been in our time?</p>
+            <p>
+               <note place="margin">Luke 8.47.</note> Mark 5.33. <hi>But the Woman fearing and</hi> tremb<g ref="char:EOLhyphen"/>ling, <hi>knowing what was done in her, came and fell down before him, and told him all the Truth.</hi>
+            </p>
+            <p>Mark how this Woman trembled at the Work of God; but you ſcoff at it.</p>
+            <p>Mark 16.8. <hi>And they went out quickly, and fled from the Sepul<g ref="char:EOLhyphen"/>chre; for they</hi> trembled, <hi>and were amazed</hi>
+            </p>
+            <p>Come, you Scoffers, were not theſe <hi>Quakers</hi> good <hi>Chriſtians,</hi> who trembled at the Reſurection of Jeſus? and if ever you come
+<pb n="9" facs="tcp:43160:5"/>in your ſelves truly to witneſs the Power of his Reſurrection, it will make you alſo to quake and tremble, although now you ſcoff and deride ſuch as do witneſs it, and tremble at it.</p>
+            <p>
+               <hi>Acts</hi> 7.42. you may read, <hi>When</hi> Moſes <hi>heard the Voice of the Lord in the mount, he</hi> trembled. Yet the Scoffers in our Age, that call themſelves <hi>Chriſtians,</hi> ſay, <hi>That there were no</hi> Quakers, <hi>but of late.</hi>
+            </p>
+            <p>
+               <hi>Acts 9.5, 6. And he ſaid, Who art thou, Lord? And the Lord ſaid, I am Ieſus whom thou perſecuteſt; it is hard for thee to kick a<g ref="char:EOLhyphen"/>gainſt the Pricks: And he</hi> trembling <hi>and aſtoniſhed ſaid, Lord, what wilt thou have me to do?</hi> Here you may ſee a <hi>Perſecuter</hi> tur<g ref="char:EOLhyphen"/>ned <hi>Quaker</hi> of a ſudden.</p>
+            <p>But ſuppoſe any of you ſhould ſend any of your Company with a Packet of Perſecuting Letters, as was with him, and that by the Light and Power of God he ſhould be convinced, and fall a Trembling, as <hi>Paul</hi> did, would not you ſoon fall a Scoffing, and calling him <hi>Fool, Puppy, Loggerhead, Phanatick,</hi> with many more Deriſions, if not to Blows and Impriſonment? So you may, if you pleaſe, ſee what kind of <hi>Chriſtians</hi> you are.</p>
+            <p>Acts 16.29, 30. <hi>Then he called for a Light, and ſprange in, and came</hi> tremling, <hi>and fell down before</hi> Paul <hi>and</hi> Silas, <hi>and brought them out, and ſaid, Sirs, what ſhall I do to be ſaved?</hi>
+            </p>
+            <p>Come you Scoffers, did not this poor Goaler turn <hi>Quaker?</hi>
+            </p>
+            <p n="1">1 Cor. 2.3. <hi>And I was with you in weakneſs, and Fear, and in much</hi> Trembling.</p>
+            <p>Would not our Scoffing Profeſſors have ſaid, that <hi>this was Can<g ref="char:EOLhyphen"/>ting,</hi> and have called <hi>Paul Quaker?</hi>
+            </p>
+            <p>Phil. 2.12. <hi>Work out your Salvation with Fear and</hi> Trembling.</p>
+            <p>Here you may ſee, that the Prophets and Apoſtles were <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> by which you may judge, what you are that ſcoff at them who tremble becauſe of God's Power in our Age.</p>
+            <p>Oh my dear <hi>Country-men!</hi> I beſeech you, be calm a little while, and reflect upon your ſelves, and conſider, whether you do not ſcoff and taunt all the Prophets and Apoſtles, who were <hi>Quakers,</hi> as well as we, who you now reproachfully call <hi>Qua<g ref="char:EOLhyphen"/>kers?</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:43160:6"/>And now, ſince I have proved the <hi>Antiquity</hi> of the <hi>Quakers</hi> but of their own Writings, <hi>viz.</hi> out of both the Old and New Teſtament, and that they were ſuch, is very evident, and that the <hi>Jews</hi> and <hi>Heathens</hi> acknowledged them to be the only People to be hearkned unto, is undeniable; and that God not only own<g ref="char:EOLhyphen"/>ed ſuch, but that he required them to be ſuch, is very plain; and how you will anſwer <hi>ſcoffing</hi> and <hi>taunting</hi> of them, without coming under the Apoſtles Reflection, I leave you to make your De<g ref="char:EOLhyphen"/>fence.</p>
+            <p>Come <hi>Papiſts, Proteſtants, Presbyterians, Independents</hi> and <hi>Anabaptiſts,</hi> anſwer me a <hi>Query;</hi> How came you to give credit to theſe ancient <hi>Quakers</hi> Writin s,<hi>viz.</hi> Old &amp; New Teſtament, and now Mock, Scorn, Scoff, Jeer, Taunt, Flout and Reproach the pre<g ref="char:EOLhyphen"/>ſent <hi>Quakers,</hi> whoſe Principles and Practice run parallel with the ancient <hi>Quakers?</hi> Are you not like your Fore-Fathers of old, who ſaid to Chriſt, the Head of both the Ancient and Preſent <hi>Quakers,</hi> that <hi>Abraham was their Father,</hi> and <hi>God was their Fa<g ref="char:EOLhyphen"/>ther,</hi> yet they went about to kill him? but he ſaid unto them, <hi>You are of your father the Devil, elſe you would not go about to kill me,</hi> John 8.39, 40, 41, 42, 43, 44. So you may ſee how your An<g ref="char:EOLhyphen"/>ceſtors owned the ancient <hi>Quakers,</hi> before their time; but mock<g ref="char:EOLhyphen"/>ed, taunted, jeered, ſcoffed and perſecuted the preſent Ones, and put them to Death; as witneſs <hi>Matthew, Mark, Luke</hi> and <hi>John's</hi> Narration of Chriſt, and other Hiſtories of the Cruel Perſecutions of the Apoſtles, by the great Profeſſors in that Ge<g ref="char:EOLhyphen"/>neration. And ſo you, like them, profeſs to own the former <hi>Quakers,</hi> and make their Writings the Rule of your Faith; but like your Fore-Fathers, that owned the ancient <hi>Quakers,</hi> and per<g ref="char:EOLhyphen"/>ſecuted the preſent Ones.</p>
+            <p>You pretend to own the ancient <hi>Quakers,</hi> both Prophets and Apoſtles, but deny, ſcoff and perſecute the preſent <hi>Quakers,</hi> whoſe Faith is one with the ancient Ones, both Prophets and A<g ref="char:EOLhyphen"/>poſtles, as having Dependence on the one Foundation, which it's in vain for any to lay any other then that which is laid, even Jeſus Chriſt. So the Work of the preſent Day, all who were out of the Truth hated, and ſought to ſhelter themſelves by adhereing to, or owning the Work of former dayes, as you may ſee at
+<pb n="11" facs="tcp:43160:6"/>large how the <hi>Scribes</hi> and <hi>Phariſees</hi> adhered to <hi>Moſes</hi> and the Prophets, but killed Chriſt Jeſus, whom they propheſied of; and ſo do you in words, like them, adhere and ſeem in words to own the Prophets, and Chriſt, and his Apoſtles, but now deny his preſent appearance in our day and time, <hi>viz.</hi> the Light and Prin<g ref="char:EOLhyphen"/>ciple of God in you, which checks and reproves you for Sin.</p>
+            <p>Come <hi>Papiſts, Proteſtants, Presbyterians, Independents</hi> and <hi>Anabaptiſts,</hi> how comes it to paſs that you make ſuch a ſtir with the former ancient Quakers Writings, and carry them about with you, and keep them in your Houſes, and call them the <hi>Bible,</hi> and the <hi>Word of God,</hi> and <hi>your Rule;</hi> but cannot abide the preſent Quakers, and their Writings, but are afraid to read their Wri<g ref="char:EOLhyphen"/>tings; although there be nothing in our Writings but what is largely teſtified of, and pointed unto, in the Writings of our traduced Brethren, the Quakers of old. And ſeeing you thus calumniate, ſcoff, mock and taunt the preſent Quakers and their Writings, how can you for ſhame (I mean you Prieſts of all ſorts) make ſuch a Trade and Gain of the former Quakers Writings? And may not I ſay, without doing any of you Wrong, that that is one great Reaſon why you ſo highly own the ancient Qua<g ref="char:EOLhyphen"/>kers Writings, becauſe the <hi>Trade</hi> you drive with them brings in moſt Gain of all Trades? And is not that the Reaſon, why you ſo abuſe the preſent Quakers and their Writings, becauſe they tell you, that <hi>it's Symony ſo to do,</hi> and that <hi>you ought to preach freely,</hi> according to Chriſt Jeſus his appointment, as his Apoſtles, the then perſecuted Quakers did and the preſent Ones now do?</p>
+            <p>And oh you Prieſts! both <hi>papiſts, proteſtants, presbyterians, in<g ref="char:EOLhyphen"/>dependents</hi> and <hi>anabaptiſts;</hi> when I think of you, I cannot but take up a Lamentation for you (for God knows, that as you are a part of Mankind, I love you, and unfainedly deſire your Welfare) when I conſider at what a Loſs you are all, about the Meaning of the ancient Quakers Writings, one ſaying, <hi>Lo, this is the Mean<g ref="char:EOLhyphen"/>ing of it;</hi> and another ſaith, <hi>Lo, that's the Meaning;</hi> and a third, fourth and fifth, <hi>The other is the Meaning:</hi> and what's the Rea<g ref="char:EOLhyphen"/>ſon, but that you all deny to make uſe of the Key of <hi>David,</hi> an ancient Quaker, that unlocks the Myſteries of all his Brethren's Writings (which the Quakers have at this day.)</p>
+            <p>
+               <pb n="12" facs="tcp:43160:7"/>But you not having the Quakers key to unfold the Myſtery, you, like <hi>Pharaoh</hi> of old, that called his Wiſe Men, Magicians, Southſayers and Aſtrologers, to make known the matter, ſo I ſay do you: you having loſt the key of <hi>David,</hi> a <hi>Quaker,</hi> you run to your Magicians, to your Schools, Tongues and Languages, and with them you perplex your ſelves, as <hi>Pharaoh</hi> did, and as <hi>Nebuchadnezzar,</hi> did; and in that nature would, as of old, build a Tower reaching heaven.</p>
+            <p>But behold, you builders are confounded, you magicians and ſchollars cannot tell the myſtery, nor unfold the meaning of the ancient Quakers Writings; but <hi>Pharaoh's</hi> Proviſo, and <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar</hi>'s Proviſo was more diſcreet by far then their's are who truſt in you; for each of you with your Tongues pretend to unfold the thing; and you Bargain, and make the poor blind peo<g ref="char:EOLhyphen"/>ple give you great Gifts and Sums by the year, although the My<g ref="char:EOLhyphen"/>ſtery be not unfolded until this day.</p>
+            <p>And are you not they that Chriſt (the ancient Quakers head) ſaid, would come, <hi>Luke</hi> 17. who would ſay, <hi>Lo, here,</hi> and <hi>lo there; but believe them not; for</hi> (ſaith he) <hi>the Kingdom of God is within you?</hi>
+            </p>
+            <p>Now, if you would hut honeſtly conſider, what did and doth induce you to believe the verity of the ancient Quakers writings, <hi>viz.</hi> the Scriptures, the ſame Light wou'd induce you to believe the preſent Ones; for it's the ſame thing in you that doth aſſert unto you the Truth of the Scriptures, as doth aſſert that ſin is ſin; but although each of you before-mentioned do believe the anci<g ref="char:EOLhyphen"/>ent Quakers Writings, yet you differ in your Faith, as touching the ancient and preſent Quakers Principles, held forth in the anci<g ref="char:EOLhyphen"/>ent Quakers writings; and ſo you being wrong in the principle of your foundation or building, how then is you Edifice but like to fall?</p>
+            <p>
+               <hi>Firſt,</hi> It was the ancient Quakers faith, (Iohn 1.9.) <hi>That it was the true Light, that lightned every man that comes into the World,</hi> But you deny it to be that true Light, but ſay, <hi>It's the light of Nature, or of a natural Conſcience.</hi>
+            </p>
+            <p>The ancient Quakers ſaid, (<hi>Rom.</hi> 19.) that <hi>Whatever may be known of God, is manifeſt in men; for God hath ſhewed it unto them.</hi>
+               <pb n="13" facs="tcp:43160:7"/>But each of you in Contradiction to the ancient Quakers, that writ ſo, and in Contradiction to the preſent Ones, that now write ſo; you ſay, That which may be known of God is not ma<g ref="char:EOLhyphen"/>nifeſt within men, but without them.</p>
+            <p>In the ancient Quakers Writings one of them ſaid, (1 John 2.27.) <hi>We have an Anointing in us; and we need not any man teach us, but as the ſame Anointing teacheth us.</hi>
+            </p>
+            <p>But in contradiction to him, you will not truſt that Anointing in you, to teach you, but hire Men without you, who do not teach from that Anointing within, but what they have ſcraped from Books and Hiſtories without them.</p>
+            <p>In the ancient Quakers Writings you may find a Proclaimation made to all People, <hi>Iſa.</hi> 55.1. (thus) <hi>Ho, every one that thirſteth, come, buy Wine and milk, without money and without Price.</hi> And in another place in the ancient Quakers Writings thus, <hi>The Spirit ſaith Come, and the Bride ſaith Come, and let him that is athirſt Come, and take of the Water of Life freely,</hi> Rev. 22.17. &amp; 21.6.</p>
+            <p>And if you will read the preſent Quakers Writings, you may ſee that they are of the ſame Mind; but each of you in contra<g ref="char:EOLhyphen"/>diction to both ancient and preſent Quakers, will not allow of your pretended Milk, Honey nor Wine, without Money or Price; and have got Laws made, that if any will not give you your Price for your Ware, you will ſue them at Law, and recover treble Dammage, and put their Bodies in Priſon until Death, and drive away their Cows, Oxen, Horſes, Swine, Pigs, Geeſe, Beds and Blankets, and their Wearing Apparel, not leaving a Skellet to boyl poor Children Meat, nor a Bed to lie on.</p>
+            <p>Oh! how diametrically oppoſite are you all to the ancient and preſent <hi>Chriſtian-Quakers,</hi> who Gave all, and now do freely Give, without Money or Price? but you have Money and Price, not only of them that willingly give you Money for that which is not Bread, but of them alſo who have Bread of Life freely given them, and have no Want.</p>
+            <p>And now you might ſay, the preſent Quakers were <hi>Phanaticks</hi> and <hi>mad-men;</hi> indeed if they ſhould forſake the Fountain of Li<g ref="char:EOLhyphen"/>ving Waters, and the Bread of Life that's given them freely, and come to you, and give you Money for that which is no bread.</p>
+            <p>
+               <pb n="14" facs="tcp:43160:8"/>Oh you Prieſts of all ſorts! I beſeech you for Chriſt's ſake, do not run thus headlong to Deſtruction, and draw the poor blind People after you; it would be far better for you to accept of the Bread and Water of Life freely, without Money or without Price.</p>
+            <p>For, what Profit will it be to you, as Chriſt (the Head of the Quakers) ſaid, to pull down your old Barns and build new, and fill them with ill-gotten Treaſures, when you know not but this Night God may require your Souls of you?</p>
+            <p>The ancient Quakers Writings, <hi>viz.</hi> the Scriptures of Truth,<note place="margin">Mich. 3.11.</note> are very full of Teſtimo<g ref="char:EOLhyphen"/>nies to this purpoſe,<note place="margin">Iſa. 56.11.</note> ſharply reproving all ſuch as in their day did preach for Hire,<note place="margin">Jer. 5.30, 31.</note> and divine for Money,<note place="margin">Ezek. 13. <hi>and</hi> 34.2, 3.</note> and were for the Fleece and Wool, and made a Prey on the People, and Merchandize of their Souls.</p>
+            <p>And in the latter-end of the ancient Quakers Writings, one of them named <hi>John,</hi> in his <hi>Revelations,</hi> ſpeaks of a time coming, <hi>that no man would buy their Merchandize any more.</hi>
+            </p>
+            <p>The God and Father of our Lord Jeſus Chriſt, who is the Head of both the ancient and preſent Quakers, Prophets, Apoſtles and Children of the Moſt High at this day, haſten that day, that all people may come, and take of the Water of Life freely; for the Spirit and the Bride, the Lamb's Wife, at this day invites all to come freely, without Money and without Price, <hi>Revel. 22.17.</hi>
+            </p>
+            <p>And it's ſaid unto all that do come, even as it was ſaid to the Church in the <hi>Canticles,</hi> (Cant. 5.1.) <hi>I am come down into my Gar<g ref="char:EOLhyphen"/>den, my Siſter, my Spouſe; I have gathered my Myrh with my Spices, I have eaten my Honey with my Honey-Comb; I have drunk my Wine with my Milk: Eat, oh Friends! drink, yea, drink abundantly, O Beloved.</hi>
+            </p>
+            <p>Oh! bleſſed State, Oh! happy Eſtate is this to witneſs and ex<g ref="char:EOLhyphen"/>perience Chriſt Jeſus his great Love unto us, who is now come down unto us, and hath made us of ſo near Relation to him as Siſter and Spouſe, and doth give freely the Bread of Life, even the hidden Manna, and the Water of Life, and ſayes unto us, and unto
+<pb n="15" facs="tcp:43160:8"/>all that will come, Take of it freely, yea, eat oh Friends, yea, drink abundantly O beloved, <hi>Rev. 2.17.</hi>
+            </p>
+            <p>And now the Viſitation and Invitation is to you, both <hi>Papiſts, Proteſtants, Presbyterians, Independents</hi> and <hi>Anabaptiſts,</hi> both Prieſt and People, to come and take of the Waters of Life free<g ref="char:EOLhyphen"/>ly, and lay out your Money no more for that which is no Bread, nor make a Trade no longer of the ancient Quakers Writings, but believe and obey the ancient and preſent Quakers Principle, the Glorious Light, which ſhineth in the Darkneſs, but the Darkneſs comprehendeth it not; and that will bring you to be of one Heart, and one Mind, and one Soul, and to ſerve God with one conſent; and then you will know your Teacher in you, which Chriſt promiſed and ſaid, <hi>could not be removed into a Corner;</hi> which is the Anointing in you, which the Apoſtle ſaid, <hi>there was no need of any other Teacher;</hi> for all other Teachers may be remo<g ref="char:EOLhyphen"/>ved into a Corner; and therefore, as you prize the welfare of your Immortal Souls, Ceaſe from Man and Man's Teaching, although he may transform himſelf ſo like Truth that he might d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceive the Elect, if it were poſſible, and own and believe the Light, the A<g ref="char:EOLhyphen"/>nointing in you; <hi>for you need not any Man teach you, but as the A<g ref="char:EOLhyphen"/>nointing in you teacheth you, which is Truth, and no Lye;</hi> for it's a meaſure of the Light of Chriſt, God's Anointed.</p>
+            <p>
+               <label>Objection,</label> 
+               <hi>But do not you teach your ſelves, and allow ſome Tea<g ref="char:EOLhyphen"/>chers among you?</hi>
+            </p>
+            <p>
+               <label>Anſwer,</label> It's true, we do allow the Children of the Light to declare to people what God hath done for their Souls, as the ſame bleſſed Anointing in them teacheth and directeth them; ſo we may ſay, as the Apoſtles ſaid, <hi>What our Ears have heard, and what our Eyes have ſeen, and our Hands handled of the Word of Life, that we declare,</hi> according to the bleſſed Experience God hath given us, (which Teaching only can edifie the Hearers.)</p>
+            <p>And that's the Reaſon that ſometimes we ſit ſilent in Meetings, without any Word, waiting diligently in quietneſs, with reve<g ref="char:EOLhyphen"/>rent Attention, hearkening with the inward Ear of our Mind for the Voice of our Beloved, Chriſt Jeſus, the Anointing in us, to
+<pb n="16" facs="tcp:43160:9"/>teach us; and if any do teach from this Anointing, Chriſt Jeſus, we own it, and have Unity with it; although we own the Tea<g ref="char:EOLhyphen"/>ching enjoyed by waiting in ſilence to be before and beyond any man's teaching, although he teach immediately from the Anoint<g ref="char:EOLhyphen"/>ing in him; for that's but at ſecond hand to the Hearers, but what we are taught by the Anointing, every one in his own particular, is at firſt hand; he that hath an Ear to hear, let him hear: and we may ſay, as the Church in <hi>Canticles</hi> ſaid, Cant. 5.2. <hi>It's the Voice of my Beloved that knocks, ſaying, Open to me, my Siſter, my Love, my Dove, my <g ref="char:V">Ʋ</g>ndefiled; for my Head. is filled with Dew, and my Locks with the Drops of the Night.</hi>
+            </p>
+            <p>And I may ſay unto you, my dear Country-men in <hi>England,</hi> and my Native Country <hi>North-Wales,</hi> That a long Night of Apo<g ref="char:EOLhyphen"/>ſtacy hath been ſince the Apoſtles (the ancient Quakers) dayes the true Church fled into the Wilderneſs for a time, and times, and half a time <hi>(Rev. 12.)</hi> but now ſhe is coming out of the Wilderneſs, leaning upon her Beloved, whoſe Head is wet with the Dew, and his Locks with the Drops of this long Night; and this is he whom <hi>John</hi> ſpeaks' of, who ſaid, <hi>Behold I ſtand at the Door and knock, if any man open, I will come in, and ſup with him, and he with me:</hi> Lo how univerſal is his Voice, and his Knocking, and how willing to be entertained by all men.</p>
+            <p>And I appeal to all your Experiences, you my Friends and be<g ref="char:EOLhyphen"/>loved <hi>Welſh men,</hi> Have not you heard the Voice of our Belo<g ref="char:EOLhyphen"/>ved, Chriſt Jeſus, the Anointing in you, calling you one day af<g ref="char:EOLhyphen"/>ter another from all the Evil of your Wayes? and doth he not ſtand at the Door of your Hearts, knocking, that he may come in, and ſup with you, and you with him?</p>
+            <p>And which of you in <hi>England</hi> or <hi>Wales,</hi> for which I mourn, can tell me of any one Sin that you have practiſed, and although no Eye hath ſeen you, but you have heard the Voice of our Belo<g ref="char:EOLhyphen"/>ved, Chriſt Jeſus, in you, calling you away from it: Oh! what wonderful Love is this, that he ſhould thus continue to ſpeak to, and wo the Children of Men?</p>
+            <p>And is it not great Ingratitude for you thus to diſregard this bleſſed Voice in you? Oh! I beſeech you conſider; Would it not be counted great Ingratitude in you, if ſome Prince or great Man
+<pb n="17" facs="tcp:43160:9"/>of the Earth, who had been your great Friend, ſhould ſtand at your Door without, and knock, and you refuſe to open unto him? Nay, I am perſwaded, that if but a <hi>Lord,</hi> or <hi>Earl,</hi> or <hi>Knight</hi> of your acquaintance, ſhould but knock at your Door, oh what a Paſſionate Haſte would you be in to open to him! and what <hi>Apologies</hi> would you be ready to make, that you could not accommodate him with Entertainment fit for him! and how great Care would you have of ſleighting him! but if you ſhould be ſo unkind, as not to open to him, nor entertain him, how ſoon would he take Offence at you, and it may be never be reconcilied to you more, although you never did it but once? and how ready would moſt of your Neighbour be to fall out with you on his account, telling you of your ill Behaviour to ſo worthy a Perſon.</p>
+            <p>But behold, how oft have you ſleighted our Beloved, who ſtands knocking, and whoſe Voice calls you to open to him? and notwithſtanding that, you have ſleighted him a thouſand times, and let him ſtand and call, and knock, ſome twenty, ſome thirty, ſome forty, ſome ſixty years, yet is he willing to be reconciled to you. Therefore I beſeech you be perſwaded to open unto him, and let him (the anointing in you) be your Teacher; <hi>for you need not any man to teach you, but as this Anointing in you doth teach you,</hi> freely, without Money and without Price.</p>
+            <p>Now I beſeech you, my Friends and Country-men, both <hi>Papiſts, Proteſtants, Presbyterians, Independents</hi> and <hi>Anabaptiſts,</hi> Prieſt and People of all ſorts, That you no longer ſleight the Voice of our Beloved, that calls thus in you, and that ſo long hath waited to be gracious to you, as your own Experience will tell you; yea, I earneſtly beg and entreat of you, that you proceed no further, as many of each of your Prieſts have done in their Books to abuſe our Beloved, the <hi>Anointing</hi> in you; ſome ſaying, <hi>Its a Natural Light,</hi> or <hi>Natural Conſcience;</hi> ſome calling it <hi>Witchcraft;</hi> and ſome, <hi>Ignis Fatuus;</hi> and ſome, the <hi>Quakers Idol,</hi> with many more ill Names too tedious to name; and like the <hi>Jews</hi> great Schollars and Prieſts of old, that Crucified him; ſo have they done now afreſh, and put him to open Shame; and it was the God of this World that blinded thoſe great Schollars Eyes then, that blinds theſe now. And as the Myſteries of his Kingdom were hid from all thoſe men then, ſo it's
+<pb n="18" facs="tcp:43160:10"/>at this day; and it's my Teſtimony for God, that <hi>there is no way to come to the Knowledge of the Heavenly Myſtery, but by giving heed to the Light, the Voice, the Knocking of the Anointing in you.</hi>
+            </p>
+            <p>Therefore ſtrive no longer with your Invented Various Mean<g ref="char:EOLhyphen"/>ings, your Various Commentaries on the ancient Quakers Wri<g ref="char:EOLhyphen"/>tings, your Tongues and Languages, ſtrive no more with your Lo<g ref="char:EOLhyphen"/>gick, Rhetorick, Studied Sermons, Philoſophy and great Books; for there's none, neither Learned nor Unlearned, found worthy to open the Myſtery of the Book, but the Lamb, whoſe voice in you only can make it known unto you: For as the Apoſtle <hi>Paul</hi> ſaid, <hi>If I give all my Goods to the Poor, and my Body to be Burnt, and have not Charity, I am but as a Sounding Braſs or Tinkling Cymbal;</hi> ſo I ſay unto you, ſtudy, pray, preach, read Books, hear Sermons, yea, do all the uttermoſt your Arts and Sciences can teach you, and it will ſignifie nothing unto you without Charity; and where is your Charity or Pity either, to let the Beloved of our Souls, Chriſt Jeſus, ſtand at the Door of your Hearts, and call unto you for En<g ref="char:EOLhyphen"/>trance, and take no Pity of him, but many of you call him ill Names, as before.</p>
+            <p>Well, my Friends, my Soul's Love deſires you to open unto him; for he will not alwayes ſtrive with you, and if you perſiſt in ſligh<g ref="char:EOLhyphen"/>ting of him, although his Voice be but low, and his Appearance but like a Grain of Muſtard-ſeed ſown in your Hearts, you will find that this Light, the <hi>Anointing in you,</hi> will be more againſt you then a thouſand Witneſſes; and then you ſhall know, that this is the Truth, written in Love to your Souls, by me, who am.</p>
+            <closer>
+               <signed>Your Real Friend. <hi>Thomas Wynne.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div xml:lang="wel" type="letter">
+            <pb n="19" facs="tcp:43160:10"/>
+            <head>Y Llythyr i annerch fy an<g ref="char:EOLhyphen"/>wyl wladwyry Cymru.</head>
+            <p>FY anwyl Frodyr a Chwuorydd o wlad fynge<g ref="char:EOLhyphen"/>nedigaeth, I mae yn amſer i chwi ddeffro, ob<g ref="char:EOLhyphen"/>legid dydd mawr yr Arglwydd a wawriodd, a cho<g ref="char:EOLhyphen"/>dodd Haul y cyfiawnder, ac i mae yn diſcleirio oddifewn yngalonau meibion dynion, yn twymno ac yn cyſſuro y rhai a'i carant ef: Ac fell y bu Duw yn drugarog trwy roi Howl oddiallan, i gyſſuro ac i gynal holl ddynol ryw yn eu gorchwylion oddial<g ref="char:EOLhyphen"/>lan; ac hebddo ni fyddei ond nos yn fuan o farfolaeth i holl ddynol ryw: Felly i mae ef gwedi rhoi haul y cyfiawnder Chriſt Jeſu mewn meſur (i ddiſcleirio oddifewn) i holl blant dynion, i ddangos iddynt hwy y ffordd i fywyd tragwyddol. A'r goleuni yr haul yma ſydd yn datcuddio i blant dynion eu holl hanwireddau: a phan fachludo yr haul yma mewn enaid, mae yn rhywyr ir enaid weithio. Am hynny (fy anwyl Frodyr y Cymbru tirion) yſty<g ref="char:EOLhyphen"/>riwch mewn pryd, a rhoddwch ufydd-dod i'r gwir goleuni yn eich Cydwybodau chwi. Oh! gran<g ref="char:EOLhyphen"/>dewch ar lais yr hwn ſydd yn curo wrth ddryſiau eich calonau chwi, ac yn galw arnoch chwi beunydd, i ymadel a phob drwg, a wyddoch i fod yn dda, A dyma 'r gwir Figael ſydd yn caſclu ei ddefaid ir un gorlan. A dyma 'r gwir Fugael a ddywedodd, <hi>Joan</hi> 10.10. Fy nefaid i a wrandawant ar fy llais i, ac ar lais un dierth ni wrandawant ddim. A dyma 'r Bugael da a roddodd ei fywyd i lawr dros y
+<pb n="20" facs="tcp:43160:11"/>defaid: Ond (eb ef) y cyflogwr a ffu, oblegid ei fod yn gyflogwr, ac nid iw yn gofalu am y defaid, Am hynny (Oh Cymbru tirion) ymadewch a'r holl gyflogwyr, oblegid ffo a wnant hwy, os coeliwch Chriſt Jeſu oblegid i bod hwy yn gyflogwyr, nad ydynt yn gofalu am danoch chwi, ond am eich eiddo chwi: A diange a wnant hwy, pan i gwelant chwi mewn cyfyngder; Pan welant hwy y blaidd, gelyn eich eneidian, diangc a wnant hwy. Ond y gwir Fugail, yr hwn a roddodd ei fywyd i lawr droſſoch, yr hwn ſydd yn lleiſio ynoch, efe a'ch gwared chwi oddiwrth y blaidd, gelyn eich enidiau chwi. Am hynny ymadewch a dynion, a throwch at gwir goleuni Duw a Chriſt ynoch chwi; Canys os y doll a dwyſa 'r dall, y ddau a ſyrth i 'r clawdd, medd Chriſt: Ac fe ddywaid yr Apoſtl <hi>Joan,</hi> y mae genym Eneiniad ynom: Ac nid rhaid i chwi neb eich dyſcu, ond fel y dyſco yr Eneiniad ynoch chwi. A dyma fy 'nhyſtiolaeth i oddiwrth wir deimlad oddiwrth Dduw, ac o wir gariad at eich eneidiau, Oni y madewch chwi a gwrando ar gyflog<g ref="char:EOLhyphen"/>wyr, ac oni ymadewch chwi a Dynion a dyfod i gymerid eich dyſcu gan yr Eneiniad oddifewn i chwi, gwell a fuaſai i chwi fod heb eich heni. Ond os chwi a ymadewch a dyſceidiaeth dynion, a chy<g ref="char:EOLhyphen"/>meryd eich dyſcu gan Griſt yr Eneiniae ynoch, ac yn ei weinidogion ef, happys a fyddwch byth yn dragwyddol. A gwybyddwch (y Cymbru anwyl) mae mewn gwir gariad at eich eneidiau chwi, i rwi 'n ſcryfennu attoch chwi, yr hwn a adwaenoch chwi wrth yr henw.</p>
+            <closer>
+               <dateline>Carwys, <date>y 4 mis yr ail dydd, 1677.</date>
+               </dateline>
+               <signed>Thomas Wynne.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="21" facs="tcp:43160:11"/>
+            <head>Poſtſcript.</head>
+            <p>OH! my dear Friends before-mentioned, I be<g ref="char:EOLhyphen"/>ſeech you once more to lay to Heart the Eſtate and Condition you are in, and call to mind it will be Wiſdom for you to remember your Latter End; and think not that your Joaking or Scoffing will ſerve turn before the great Tribunal, nor your empty profeſſing of God and Chriſt in words; for, <hi>it is not every one that ſaith, Lord, Lord, ſhall enter the Kingdom, but he that doth the will of the Father which is in Heaven.</hi>
+            </p>
+            <p>But in may be ſome of you will be ready to ſay, that <hi>I make no Diſtinction between the Beſt and the Worſt.</hi>
+            </p>
+            <p>To which I Anſwer, That I have written in gene<g ref="char:EOLhyphen"/>ral, and though there be among you diſtinct Names, as before, I find you all to agree (in Nature) to Scoff, Taunt and Perſecute God's poor deſpiſed People; and ſeeing you have ſo unanimouſly agreed ſo to do, as may ap<g ref="char:EOLhyphen"/>pear if need be, I judge it but equal to let you be toge<g ref="char:EOLhyphen"/>ther until ſome of you disjoyn your ſelves by a more holy Frame of Spirit.</p>
+            <p>Yet I know, there are ſome particular Perſons of each of you, who are come ſo far to be led and guided by the holy Principle in them, that they dare not ſcoff nor jeer any, but are troubled to hear or ſee any others
+<pb n="22" facs="tcp:43160:12"/>do ſo, who have ſhewed their Moderation ſo much as they themſelves have not eſcaped being Sharers in the Reproach of the <hi>Quakers;</hi> ct theſe I diſtinguiſh from the reſt, and from what I charge the afore-mention'd with; and I heartily deſire, that they may witneſs a Growth in the Heavenly Principle, which will further them in holy Living, and make them able to diſcern who they are that fear God, and who fear him not.</p>
+            <closer>
+               <signed>T. W.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:43160:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
